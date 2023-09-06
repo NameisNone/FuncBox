@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ino": "cpp",
+        "port_log.h": "c",
+        "arduino.h": "c"
+    }
+}
